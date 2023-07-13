@@ -1,3 +1,10 @@
+---
+sdk: gradio
+sdk_version: 3.33.1
+app_file: server.py
+---
+
+
 # Text generation web UI
 
 A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
